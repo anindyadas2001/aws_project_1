@@ -16,12 +16,11 @@
 
 (Things to have before starting the projects)
 
- AWS Account.
-Programmatic access and AWS configured with CLI.
-Python3 Installed.
-Docker and Kubectl installed.
-Code editor (Vscode)
-
+- [x]  AWS Account.
+- [x]  Programmatic access and AWS configured with CLI.
+- [x]  Python3 Installed.
+- [x]  Docker and Kubectl installed.
+- [x]  Code editor (Vscode)
 # Process
 
 ## **Part 1: Deploying the Flask application locally**
