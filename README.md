@@ -22,7 +22,7 @@
 - [x]  Docker and Kubectl installed.
 - [x]  Code editor (Vscode)
 
-# ✨Let’s Start the Project ✨
+# Process
 
 ## **Part 1: Deploying the Flask application locally**
 
