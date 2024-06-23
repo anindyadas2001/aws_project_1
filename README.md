@@ -21,6 +21,11 @@
 - [x]  Python3 Installed.
 - [x]  Docker and Kubectl installed.
 - [x]  Code editor (Vscode)
+
+## **Syetem Design* !
+
+
+
 # Process
 
 ## **Part 1: Deploying the Flask application locally**
