@@ -2,9 +2,9 @@
 
 1. Created Monitoring Application in Python using Flask 
 2. Containerized a Python application
-    - [x] a. Created Dockerfile
-    - [x] b. Built DockerImage
-    - [x] c. Ran Docker Container
+    - [x]  Created Dockerfile
+    - [x]  Built DockerImage
+    - [x] Ran Docker Container
 3. Created ECR repository using Python Boto3 and pushing Docker Image to ECR
 4. Created EKS cluster and Nodegroups
 5. Create Kubernetes Deployments and Services using Python
