@@ -11,7 +11,7 @@
 
 
 
-## **Must Haves** !
+## **Must Haves** 
 
 - [x]  AWS Account.
 - [x]  Programmatic access and AWS configured with CLI.
