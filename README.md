@@ -19,7 +19,7 @@
 - [x]  Docker and Kubectl .
 - [x]  IDE ( Vscode )
 
-## **Syetem Design* !
+## **Syetem Design**
 
 
 
