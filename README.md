@@ -20,7 +20,7 @@
 - [x]  IDE ( Vscode )
 
 ## **Syetem Design**
-![image (2)]()
+![image (2)](https://github.com/anindyadas2001/aws_project_1/blob/dd06646d5322fe9030f10f35bef97da642272716/sysem%20design.png)
 
 
 # Process
