@@ -1,26 +1,23 @@
-# **Resource Monitoring Application(Using Amazon EKS and Kuberbetes)!**
+# **System Resource Monitoring Application (Cloud Native)**
 
-1. Create Monitoring Application in Python using Flask 
-2. Containerize a Python application
-    1. Create Dockerfile
-    2. Build DockerImage
-    3. Run Docker Container
-    4. Docker Commands
-3. Create ECR repository using Python Boto3 and pushing Docker Image to ECR
-4. Create EKS cluster and Nodegroups
-5. Create Kubernetes Deployments and Services using Python!
-
+1. Created Monitoring Application in Python using Flask 
+2. Containerized a Python application
+    a. Created Dockerfile
+    b. Built DockerImage
+    c. Ran Docker Container
+3. Created ECR repository using Python Boto3 and pushing Docker Image to ECR
+4. Created EKS cluster and Nodegroups
+5. Create Kubernetes Deployments and Services using Python
 
 
-## **Prerequisites** !
 
-(Things to have before starting the projects)
+## **Must Haves** !
 
 - [x]  AWS Account.
 - [x]  Programmatic access and AWS configured with CLI.
-- [x]  Python3 Installed.
-- [x]  Docker and Kubectl installed.
-- [x]  Code editor (Vscode)
+- [x]  Python3.
+- [x]  Docker and Kubectl .
+- [x]  IDE ( Vscode )
 
 ## **Syetem Design* !
 
